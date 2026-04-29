@@ -5,7 +5,9 @@
 A smart, beautiful personal finance tracker built for India.
 Dark by default. Fast by design. Built with ₹ in mind.
 
----
+## 🌐 Live App
+
+**[https://altair2-oq6udifkv-bauxzys-projects.vercel.app](https://altair2-oq6udifkv-bauxzys-projects.vercel.app)**
 
 ## ✨ Features
 
@@ -16,12 +18,6 @@ Dark by default. Fast by design. Built with ₹ in mind.
 - 📤 Export to CSV
 - 🔐 Secure login with email or Google
 - 📱 Works on mobile & desktop
-
----
-
-## 🌐 Live App
-
-Coming soon.
 
 ---
 
